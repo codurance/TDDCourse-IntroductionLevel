@@ -1,4 +1,4 @@
-# TDD in Depth
+# TDD Course - Introduction Level
 
 ## Module 1: The Basics
 
